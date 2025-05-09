@@ -1,8 +1,5 @@
-# Cloudinary Uploader – Firebase Storage Alternative (Free)
-
-![App Thumbnail](https://raw.githubusercontent.com/FasterSoftwareDeveloper/Cloudinary-Uploader-in-Sketchware-Pro/refs/heads/main/thumbnail.png)  
+# Cloudinary Uploader – Firebase Storage Alternative (Free!)
 [![Watch Demo](https://img.youtube.com/vi/kOLG66Osdb8/0.jpg)](https://youtu.be/kOLG66Osdb8)
-
 
 A modern Android example project using **Cloudinary** as a free alternative to Firebase Storage.  
 Built with **Material 3 UI**, **Scoped Storage**, and **Storage Access Framework (SAF)** – fully compatible with **API 24 to 35**.
